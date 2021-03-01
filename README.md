@@ -1,8 +1,5 @@
 # TMDb Movie Search
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/SKempin/reactjs-tmdb-app/blob/master/LICENCE)
-[![GitHub stars](https://img.shields.io/github/stars/SKempin/reactjs-tmdb-app.svg?style=flat-square)](https://github.com/SKempin/reactjs-tmdb-app/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/SKempin/reactjs-tmdb-app.svg?style=flat-square)](https://github.com/SKempin/reactjs-tmdb-app/network)
-[![Mentioned in Awesome React](https://awesome.re/mentioned-badge.svg)](https://github.com/enaqx/awesome-react)
+
 
 
 
